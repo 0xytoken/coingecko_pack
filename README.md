@@ -1,4 +1,4 @@
-## A Coingecko Pack for Coda
+## A Coingecko Pack for Coda 🧩
 
 ****You can now easily query your favorite crypto coin in your coda sheet using this pack****
 
